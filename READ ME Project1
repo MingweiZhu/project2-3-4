@@ -1,0 +1,11 @@
+In project 1, I used the mode of separating the front end and the back end to develop and test functions.
+The back end i use the SpringBoot framework, Spring Data JPA and Hibernate. 
+The database i use the MySQL database.
+The front end i use the Angular framework and bootstrap,jquery template, to make the front page look better.
+In the database, I created two tables, course and CourseUnit, which represent the course and each unit of the course. 
+Two tables are mapped by a one-to-many relationship.
+In the back-end program, i developed the findByCourseId method in the CourseUnitRepository,
+which allows the user to search for a specific course to see which units in that course are not being studied.
+In the front end, i develop courseList and pagesNotFound these two components to show the user study information and course detail.
+The Angular file is too big that i can't upload in the github. I will send an email include the angular file and springboot file.
+Thank you
